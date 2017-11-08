@@ -70,9 +70,9 @@ public final class Point2D implements Comparable<Point2D>
     public static int ccw(Point2D a,Point2D b,Point2D c)
     {
         double area2 = (b.x-a.x)*(c.y-a.y) - (b.y-a.y)*(c.x-a.x);
-        if (area2<0) return -1;
-        if(area2>0) return +1;
-        else return 0;
+        if  (area2<0) return -1;
+        if  (area2>0) return +1;
+        else          return  0;
     }
 
     public static double area2(Point2D a,Point2D b,Point2D c)
@@ -229,7 +229,7 @@ public final class Point2D implements Comparable<Point2D>
         int y0 = Integer.parseInt(args[1]);
         int  n = Integer.parseInt(args[2]);
 
-        StdDraw.setCanvasSize(800,800);
+        StdDraw.setCanvasSize(600,600);
         StdDraw.setXscale(0,100);
         StdDraw.setYscale(0,100);
         StdDraw.setPenRadius(0.005);
