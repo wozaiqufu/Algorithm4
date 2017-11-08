@@ -1,6 +1,4 @@
-import java.util.Arrays;
 import java.util.ArrayList;
-import java.util.Comparator;
 
 public class Interval1D {
     private double m_lo;
