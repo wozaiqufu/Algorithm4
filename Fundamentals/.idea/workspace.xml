@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45cc37e5-9b41-4d20-8714-117946a1dbd6" name="Default" comment="" />
+    <list default="true" id="c8b2dc4c-0b4e-44b4-8dc2-73fd6c90ae24" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,16 +42,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Fundamental" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Fundamental" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -59,8 +59,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -168,17 +168,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45cc37e5-9b41-4d20-8714-117946a1dbd6" name="Default" comment="" />
-      <created>1510128360368</created>
+      <changelist id="c8b2dc4c-0b4e-44b4-8dc2-73fd6c90ae24" name="Default" comment="" />
+      <created>1510129253323</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1510128360368</updated>
-      <workItem from="1510128361741" duration="11000" />
+      <updated>1510129253323</updated>
+      <workItem from="1510129254782" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11000" />
+    <option name="totallyTimeSpent" value="13000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="1260" height="733" extended-state="0" />
