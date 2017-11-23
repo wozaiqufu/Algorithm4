@@ -16,7 +16,7 @@ public final class Point2D implements Comparable<Point2D>
     {
         if(Double.isInfinite(x)||Double.isInfinite(y))
         {
-            throw new IllegalArgumentException("Coordinates must be infinite!");
+            throw new IllegalArgumentException("Coordinates must be finite!");
         }
         if(Double.isNaN(x)||Double.isNaN(y))
         {
@@ -207,6 +207,7 @@ public final class Point2D implements Comparable<Point2D>
     {
         return "(" + x + "," + y + ")";
     }
+
     public int hashCode()
     {
         int hashX = ((Double) x).hashCode();
